@@ -21,6 +21,7 @@ public int professores = 200;
 public final static int HEIGHT = 800;
 public static final int WIDTH = 800;
 public static Rectangle passaro;
+public int testando = 209;
 JFrame jf = new JFrame();
 Timer timer = new Timer();
 JLabel lab = new JLabel();
